@@ -26,4 +26,18 @@
    ```
 4. 
    ```
+   AGHAA    AGAAA
+            AGGAA
+   
+   GAGHA    GAGAA
+            GAGGA
+   
+   HHGHA    GAGAA
+            AGGGA
+   
+   AHAAA    AGAAA
+            AAAAA  <- This
+   
+   HHHHA    GAGAA
+            GAGGA
    ```
